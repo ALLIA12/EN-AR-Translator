@@ -152,3 +152,5 @@ cython_debug/
 #.idea/
 *.tmx
 /MODEL/
+tokenizer_ar.pkl
+tokenizer_en.pkl
