@@ -154,3 +154,4 @@ cython_debug/
 /MODEL/
 tokenizer_ar.pkl
 tokenizer_en.pkl
+/Model Locally trained/
